@@ -2,6 +2,6 @@
 
 **Welcome to Médéric's GitHub**
 
-#About this repository
+# About this repository
 
 This repository was made to create the landing page to my personal GitHub
